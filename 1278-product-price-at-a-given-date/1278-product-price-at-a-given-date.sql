@@ -14,5 +14,5 @@ SELECT p.product_id, new_price as price
 FROM products p join cte on
 p.product_id = cte.product_id and p.change_date =cte.pre_change_date
 union 
-SELECT distinct product_id, 10 as price
+SELECT product_id, 10 as price
 from products where product_id not in (select product_id from cte);
