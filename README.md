@@ -11,6 +11,7 @@
 | [0626-exchange-seats](https://github.com/apoorwagupta/Journey/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/apoorwagupta/Journey/tree/master/1155-product-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/apoorwagupta/Journey/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1278-product-price-at-a-given-date](https://github.com/apoorwagupta/Journey/tree/master/1278-product-price-at-a-given-date) |
 | [1317-monthly-transactions-i](https://github.com/apoorwagupta/Journey/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/apoorwagupta/Journey/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1480-movie-rating](https://github.com/apoorwagupta/Journey/tree/master/1480-movie-rating) |
