@@ -10,6 +10,7 @@
 | [0619-biggest-single-number](https://github.com/apoorwagupta/Journey/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/apoorwagupta/Journey/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/apoorwagupta/Journey/tree/master/1155-product-sales-analysis-iii) |
+| [1182-game-play-analysis-iv](https://github.com/apoorwagupta/Journey/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/apoorwagupta/Journey/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1278-product-price-at-a-given-date](https://github.com/apoorwagupta/Journey/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/apoorwagupta/Journey/tree/master/1292-immediate-food-delivery-ii) |
