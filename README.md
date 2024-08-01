@@ -28,4 +28,12 @@
 | [1942-primary-department-for-each-employee](https://github.com/apoorwagupta/Journey/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/apoorwagupta/Journey/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/apoorwagupta/Journey/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
