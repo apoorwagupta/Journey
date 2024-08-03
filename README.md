@@ -7,6 +7,7 @@
 | [0176-second-highest-salary](https://github.com/apoorwagupta/Journey/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/apoorwagupta/Journey/tree/master/0196-delete-duplicate-emails) |
 | [0596-classes-more-than-5-students](https://github.com/apoorwagupta/Journey/tree/master/0596-classes-more-than-5-students) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/apoorwagupta/Journey/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/apoorwagupta/Journey/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/apoorwagupta/Journey/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/apoorwagupta/Journey/tree/master/0626-exchange-seats) |
