@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/apoorwagupta/Journey/tree/master/0011-container-with-most-water) |
+| [0219-contains-duplicate-ii](https://github.com/apoorwagupta/Journey/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorwagupta/Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0921-spiral-matrix-iii](https://github.com/apoorwagupta/Journey/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apoorwagupta/Journey/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -49,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/apoorwagupta/Journey/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorwagupta/Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apoorwagupta/Journey/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/apoorwagupta/Journey/tree/master/0921-spiral-matrix-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/apoorwagupta/Journey/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
