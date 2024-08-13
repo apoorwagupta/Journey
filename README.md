@@ -41,6 +41,7 @@
 | [0921-spiral-matrix-iii](https://github.com/apoorwagupta/Journey/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apoorwagupta/Journey/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/apoorwagupta/Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/apoorwagupta/Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/apoorwagupta/Journey/tree/master/0273-integer-to-english-words) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/apoorwagupta/Journey/tree/master/0921-spiral-matrix-iii) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
