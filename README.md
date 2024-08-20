@@ -80,12 +80,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/apoorwagupta/Journey/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorwagupta/Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/apoorwagupta/Journey/tree/master/0633-sum-of-square-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/apoorwagupta/Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/apoorwagupta/Journey/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorwagupta/Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/apoorwagupta/Journey/tree/master/0633-sum-of-square-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/apoorwagupta/Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
 |  |
@@ -105,6 +107,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/apoorwagupta/Journey/tree/master/0066-plus-one) |
 | [0273-integer-to-english-words](https://github.com/apoorwagupta/Journey/tree/master/0273-integer-to-english-words) |
+| [0633-sum-of-square-numbers](https://github.com/apoorwagupta/Journey/tree/master/0633-sum-of-square-numbers) |
 | [1635-number-of-good-pairs](https://github.com/apoorwagupta/Journey/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/apoorwagupta/Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
