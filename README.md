@@ -50,6 +50,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/apoorwagupta/Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/apoorwagupta/Journey/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/apoorwagupta/Journey/tree/master/1791-richest-customer-wealth) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/apoorwagupta/Journey/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/apoorwagupta/Journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -74,6 +75,7 @@
 | [0959-3sum-with-multiplicity](https://github.com/apoorwagupta/Journey/tree/master/0959-3sum-with-multiplicity) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apoorwagupta/Journey/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/apoorwagupta/Journey/tree/master/1635-number-of-good-pairs) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/apoorwagupta/Journey/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -84,6 +86,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apoorwagupta/Journey/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/apoorwagupta/Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/apoorwagupta/Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/apoorwagupta/Journey/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/apoorwagupta/Journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -96,6 +99,7 @@
 | [0959-3sum-with-multiplicity](https://github.com/apoorwagupta/Journey/tree/master/0959-3sum-with-multiplicity) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/apoorwagupta/Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/apoorwagupta/Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/apoorwagupta/Journey/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/apoorwagupta/Journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
