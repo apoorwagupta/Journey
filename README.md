@@ -141,6 +141,7 @@
 | [0633-sum-of-square-numbers](https://github.com/apoorwagupta/Journey/tree/master/0633-sum-of-square-numbers) |
 | [1635-number-of-good-pairs](https://github.com/apoorwagupta/Journey/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/apoorwagupta/Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/apoorwagupta/Journey/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Recursion
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/apoorwagupta/Journey/tree/master/0921-spiral-matrix-iii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/apoorwagupta/Journey/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,4 +166,8 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/apoorwagupta/Journey/tree/master/0119-pascals-triangle-ii) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/apoorwagupta/Journey/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
