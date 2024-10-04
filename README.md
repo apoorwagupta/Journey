@@ -72,6 +72,7 @@
 | [1894-merge-strings-alternately](https://github.com/apoorwagupta/Journey/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/apoorwagupta/Journey/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/apoorwagupta/Journey/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -88,6 +89,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/apoorwagupta/Journey/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/apoorwagupta/Journey/tree/master/1830-count-good-meals) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/apoorwagupta/Journey/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -128,6 +130,7 @@
 | [0959-3sum-with-multiplicity](https://github.com/apoorwagupta/Journey/tree/master/0959-3sum-with-multiplicity) |
 | [1635-number-of-good-pairs](https://github.com/apoorwagupta/Journey/tree/master/1635-number-of-good-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/apoorwagupta/Journey/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
