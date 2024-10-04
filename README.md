@@ -54,6 +54,7 @@
 | [1635-number-of-good-pairs](https://github.com/apoorwagupta/Journey/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/apoorwagupta/Journey/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/apoorwagupta/Journey/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1803-average-waiting-time](https://github.com/apoorwagupta/Journey/tree/master/1803-average-waiting-time) |
 | [1830-count-good-meals](https://github.com/apoorwagupta/Journey/tree/master/1830-count-good-meals) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/apoorwagupta/Journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/apoorwagupta/Journey/tree/master/0921-spiral-matrix-iii) |
+| [1803-average-waiting-time](https://github.com/apoorwagupta/Journey/tree/master/1803-average-waiting-time) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/apoorwagupta/Journey/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Sliding Window
