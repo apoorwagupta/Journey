@@ -60,6 +60,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
+| [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
 | [3194-find-words-containing-character](https://github.com/apoorwagupta/Journey/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/apoorwagupta/Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
@@ -174,4 +175,12 @@
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/apoorwagupta/Journey/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Stack
+|  |
+| ------- |
+| [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
 <!---LeetCode Topics End-->
