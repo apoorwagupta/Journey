@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/apoorwagupta/Journey/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/apoorwagupta/Journey/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/apoorwagupta/Journey/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/apoorwagupta/Journey/tree/master/0073-set-matrix-zeroes) |
 | [0119-pascals-triangle-ii](https://github.com/apoorwagupta/Journey/tree/master/0119-pascals-triangle-ii) |
@@ -95,6 +96,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/apoorwagupta/Journey/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorwagupta/Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/apoorwagupta/Journey/tree/master/0414-third-maximum-number) |
 | [0959-3sum-with-multiplicity](https://github.com/apoorwagupta/Journey/tree/master/0959-3sum-with-multiplicity) |
