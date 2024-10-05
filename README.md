@@ -154,6 +154,7 @@
 | [0273-integer-to-english-words](https://github.com/apoorwagupta/Journey/tree/master/0273-integer-to-english-words) |
 | [0633-sum-of-square-numbers](https://github.com/apoorwagupta/Journey/tree/master/0633-sum-of-square-numbers) |
 | [1635-number-of-good-pairs](https://github.com/apoorwagupta/Journey/tree/master/1635-number-of-good-pairs) |
+| [1761-count-sorted-vowel-strings](https://github.com/apoorwagupta/Journey/tree/master/1761-count-sorted-vowel-strings) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/apoorwagupta/Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/apoorwagupta/Journey/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Recursion
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/apoorwagupta/Journey/tree/master/0119-pascals-triangle-ii) |
+| [1761-count-sorted-vowel-strings](https://github.com/apoorwagupta/Journey/tree/master/1761-count-sorted-vowel-strings) |
 ## Game Theory
 |  |
 | ------- |
@@ -195,4 +197,8 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/apoorwagupta/Journey/tree/master/0739-daily-temperatures) |
 | [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/apoorwagupta/Journey/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
