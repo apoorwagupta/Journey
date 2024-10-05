@@ -43,6 +43,7 @@
 | [0414-third-maximum-number](https://github.com/apoorwagupta/Journey/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/apoorwagupta/Journey/tree/master/0500-keyboard-row) |
 | [0624-maximum-distance-in-arrays](https://github.com/apoorwagupta/Journey/tree/master/0624-maximum-distance-in-arrays) |
+| [0739-daily-temperatures](https://github.com/apoorwagupta/Journey/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/apoorwagupta/Journey/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/apoorwagupta/Journey/tree/master/0921-spiral-matrix-iii) |
 | [0959-3sum-with-multiplicity](https://github.com/apoorwagupta/Journey/tree/master/0959-3sum-with-multiplicity) |
@@ -181,9 +182,11 @@
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/apoorwagupta/Journey/tree/master/0739-daily-temperatures) |
 | [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/apoorwagupta/Journey/tree/master/0739-daily-temperatures) |
 | [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
 <!---LeetCode Topics End-->
