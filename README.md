@@ -62,6 +62,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/apoorwagupta/Journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/apoorwagupta/Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/apoorwagupta/Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
 | [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
@@ -78,6 +79,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/apoorwagupta/Journey/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/apoorwagupta/Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/apoorwagupta/Journey/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -124,6 +126,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/apoorwagupta/Journey/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/apoorwagupta/Journey/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/apoorwagupta/Journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/apoorwagupta/Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/apoorwagupta/Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
