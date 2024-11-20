@@ -67,6 +67,7 @@
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
 | [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
 | [3194-find-words-containing-character](https://github.com/apoorwagupta/Journey/tree/master/3194-find-words-containing-character) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/apoorwagupta/Journey/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/apoorwagupta/Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
@@ -99,6 +100,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/apoorwagupta/Journey/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/apoorwagupta/Journey/tree/master/3308-apply-operations-to-make-string-empty) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/apoorwagupta/Journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/apoorwagupta/Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/apoorwagupta/Journey/tree/master/3308-apply-operations-to-make-string-empty) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/apoorwagupta/Journey/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/apoorwagupta/Journey/tree/master/3308-apply-operations-to-make-string-empty) |
 ## Greedy
 |  |
 | ------- |
