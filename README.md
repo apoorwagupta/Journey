@@ -48,6 +48,7 @@
 | [0890-lemonade-change](https://github.com/apoorwagupta/Journey/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/apoorwagupta/Journey/tree/master/0921-spiral-matrix-iii) |
 | [0959-3sum-with-multiplicity](https://github.com/apoorwagupta/Journey/tree/master/0959-3sum-with-multiplicity) |
+| [1063-best-sightseeing-pair](https://github.com/apoorwagupta/Journey/tree/master/1063-best-sightseeing-pair) |
 | [1137-height-checker](https://github.com/apoorwagupta/Journey/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/apoorwagupta/Journey/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/apoorwagupta/Journey/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/apoorwagupta/Journey/tree/master/0119-pascals-triangle-ii) |
+| [1063-best-sightseeing-pair](https://github.com/apoorwagupta/Journey/tree/master/1063-best-sightseeing-pair) |
 | [1761-count-sorted-vowel-strings](https://github.com/apoorwagupta/Journey/tree/master/1761-count-sorted-vowel-strings) |
 ## Game Theory
 |  |
