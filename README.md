@@ -64,6 +64,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/apoorwagupta/Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/apoorwagupta/Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/apoorwagupta/Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
 | [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
@@ -171,6 +172,7 @@
 | [0633-sum-of-square-numbers](https://github.com/apoorwagupta/Journey/tree/master/0633-sum-of-square-numbers) |
 | [1635-number-of-good-pairs](https://github.com/apoorwagupta/Journey/tree/master/1635-number-of-good-pairs) |
 | [1761-count-sorted-vowel-strings](https://github.com/apoorwagupta/Journey/tree/master/1761-count-sorted-vowel-strings) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/apoorwagupta/Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/apoorwagupta/Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/apoorwagupta/Journey/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Recursion
@@ -189,6 +191,7 @@
 | [0921-spiral-matrix-iii](https://github.com/apoorwagupta/Journey/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/apoorwagupta/Journey/tree/master/1803-average-waiting-time) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/apoorwagupta/Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/apoorwagupta/Journey/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Sliding Window
 |  |
@@ -218,6 +221,7 @@
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/apoorwagupta/Journey/tree/master/1761-count-sorted-vowel-strings) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/apoorwagupta/Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Counting Sort
 |  |
 | ------- |
