@@ -250,4 +250,16 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/apoorwagupta/Journey/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/apoorwagupta/Journey/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/apoorwagupta/Journey/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
