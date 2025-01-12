@@ -255,6 +255,7 @@
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/apoorwagupta/Journey/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/apoorwagupta/Journey/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/apoorwagupta/Journey/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -265,4 +266,9 @@
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/apoorwagupta/Journey/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/apoorwagupta/Journey/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/apoorwagupta/Journey/tree/master/0904-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/apoorwagupta/Journey/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
