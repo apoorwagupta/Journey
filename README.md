@@ -66,6 +66,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/apoorwagupta/Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/apoorwagupta/Journey/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/apoorwagupta/Journey/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/apoorwagupta/Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
 | [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
@@ -138,6 +139,7 @@
 | [1894-merge-strings-alternately](https://github.com/apoorwagupta/Journey/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/apoorwagupta/Journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/apoorwagupta/Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/apoorwagupta/Journey/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/apoorwagupta/Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -194,6 +196,7 @@
 | [1803-average-waiting-time](https://github.com/apoorwagupta/Journey/tree/master/1803-average-waiting-time) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/apoorwagupta/Journey/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/apoorwagupta/Journey/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/apoorwagupta/Journey/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Sliding Window
 |  |
@@ -246,6 +249,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/apoorwagupta/Journey/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Quickselect
 |  |
 | ------- |
