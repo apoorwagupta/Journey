@@ -90,6 +90,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/apoorwagupta/Journey/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/apoorwagupta/Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2470-removing-stars-from-a-string](https://github.com/apoorwagupta/Journey/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/apoorwagupta/Journey/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -200,6 +201,7 @@
 | [1803-average-waiting-time](https://github.com/apoorwagupta/Journey/tree/master/1803-average-waiting-time) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/apoorwagupta/Journey/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2470-removing-stars-from-a-string](https://github.com/apoorwagupta/Journey/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/apoorwagupta/Journey/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/apoorwagupta/Journey/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Sliding Window
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/apoorwagupta/Journey/tree/master/0739-daily-temperatures) |
+| [2470-removing-stars-from-a-string](https://github.com/apoorwagupta/Journey/tree/master/2470-removing-stars-from-a-string) |
 | [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
 ## Monotonic Stack
 |  |
