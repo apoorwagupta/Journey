@@ -56,6 +56,7 @@
 | [1293-three-consecutive-odds](https://github.com/apoorwagupta/Journey/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/apoorwagupta/Journey/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/apoorwagupta/Journey/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/apoorwagupta/Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/apoorwagupta/Journey/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apoorwagupta/Journey/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/apoorwagupta/Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -105,6 +106,7 @@
 | [0500-keyboard-row](https://github.com/apoorwagupta/Journey/tree/master/0500-keyboard-row) |
 | [0959-3sum-with-multiplicity](https://github.com/apoorwagupta/Journey/tree/master/0959-3sum-with-multiplicity) |
 | [1319-unique-number-of-occurrences](https://github.com/apoorwagupta/Journey/tree/master/1319-unique-number-of-occurrences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/apoorwagupta/Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apoorwagupta/Journey/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/apoorwagupta/Journey/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/apoorwagupta/Journey/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -122,6 +124,7 @@
 | [0414-third-maximum-number](https://github.com/apoorwagupta/Journey/tree/master/0414-third-maximum-number) |
 | [0959-3sum-with-multiplicity](https://github.com/apoorwagupta/Journey/tree/master/0959-3sum-with-multiplicity) |
 | [1137-height-checker](https://github.com/apoorwagupta/Journey/tree/master/1137-height-checker) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/apoorwagupta/Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apoorwagupta/Journey/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/apoorwagupta/Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/apoorwagupta/Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -139,6 +142,7 @@
 | [0633-sum-of-square-numbers](https://github.com/apoorwagupta/Journey/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/apoorwagupta/Journey/tree/master/0680-valid-palindrome-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/apoorwagupta/Journey/tree/master/0959-3sum-with-multiplicity) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/apoorwagupta/Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/apoorwagupta/Journey/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/apoorwagupta/Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/apoorwagupta/Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -154,6 +158,7 @@
 | [0162-find-peak-element](https://github.com/apoorwagupta/Journey/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorwagupta/Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/apoorwagupta/Journey/tree/master/0633-sum-of-square-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/apoorwagupta/Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/apoorwagupta/Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/apoorwagupta/Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/apoorwagupta/Journey/tree/master/2699-count-the-number-of-fair-pairs) |
