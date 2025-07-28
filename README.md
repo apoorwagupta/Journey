@@ -43,6 +43,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/apoorwagupta/Journey/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorwagupta/Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/apoorwagupta/Journey/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/apoorwagupta/Journey/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/apoorwagupta/Journey/tree/master/0500-keyboard-row) |
 | [0624-maximum-distance-in-arrays](https://github.com/apoorwagupta/Journey/tree/master/0624-maximum-distance-in-arrays) |
@@ -216,11 +217,13 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/apoorwagupta/Journey/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/apoorwagupta/Journey/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/apoorwagupta/Journey/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/apoorwagupta/Journey/tree/master/0119-pascals-triangle-ii) |
+| [0413-arithmetic-slices](https://github.com/apoorwagupta/Journey/tree/master/0413-arithmetic-slices) |
 | [1063-best-sightseeing-pair](https://github.com/apoorwagupta/Journey/tree/master/1063-best-sightseeing-pair) |
 | [1761-count-sorted-vowel-strings](https://github.com/apoorwagupta/Journey/tree/master/1761-count-sorted-vowel-strings) |
 ## Game Theory
