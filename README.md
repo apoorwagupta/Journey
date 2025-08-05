@@ -98,6 +98,7 @@
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/apoorwagupta/Journey/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/apoorwagupta/Journey/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0219-contains-duplicate-ii](https://github.com/apoorwagupta/Journey/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/apoorwagupta/Journey/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/apoorwagupta/Journey/tree/master/0643-maximum-average-subarray-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/apoorwagupta/Journey/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Dynamic Programming
 |  |
 | ------- |
