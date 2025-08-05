@@ -87,6 +87,7 @@
 | [0500-keyboard-row](https://github.com/apoorwagupta/Journey/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/apoorwagupta/Journey/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/apoorwagupta/Journey/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/apoorwagupta/Journey/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/apoorwagupta/Journey/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/apoorwagupta/Journey/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/apoorwagupta/Journey/tree/master/1894-merge-strings-alternately) |
@@ -189,6 +190,7 @@
 | [0273-integer-to-english-words](https://github.com/apoorwagupta/Journey/tree/master/0273-integer-to-english-words) |
 | [0633-sum-of-square-numbers](https://github.com/apoorwagupta/Journey/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/apoorwagupta/Journey/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/apoorwagupta/Journey/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1635-number-of-good-pairs](https://github.com/apoorwagupta/Journey/tree/master/1635-number-of-good-pairs) |
 | [1761-count-sorted-vowel-strings](https://github.com/apoorwagupta/Journey/tree/master/1761-count-sorted-vowel-strings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/apoorwagupta/Journey/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -220,6 +222,7 @@
 | [0219-contains-duplicate-ii](https://github.com/apoorwagupta/Journey/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/apoorwagupta/Journey/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/apoorwagupta/Journey/tree/master/0643-maximum-average-subarray-i) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/apoorwagupta/Journey/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/apoorwagupta/Journey/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Dynamic Programming
 |  |
