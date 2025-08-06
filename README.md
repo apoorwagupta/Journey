@@ -48,6 +48,7 @@
 | [0500-keyboard-row](https://github.com/apoorwagupta/Journey/tree/master/0500-keyboard-row) |
 | [0624-maximum-distance-in-arrays](https://github.com/apoorwagupta/Journey/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/apoorwagupta/Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/apoorwagupta/Journey/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/apoorwagupta/Journey/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/apoorwagupta/Journey/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/apoorwagupta/Journey/tree/master/0921-spiral-matrix-iii) |
