@@ -76,6 +76,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/apoorwagupta/Journey/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/apoorwagupta/Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/apoorwagupta/Journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
 | [3194-find-words-containing-character](https://github.com/apoorwagupta/Journey/tree/master/3194-find-words-containing-character) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/apoorwagupta/Journey/tree/master/3308-apply-operations-to-make-string-empty) |
@@ -224,6 +225,7 @@
 | [0413-arithmetic-slices](https://github.com/apoorwagupta/Journey/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/apoorwagupta/Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/apoorwagupta/Journey/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/apoorwagupta/Journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/apoorwagupta/Journey/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Dynamic Programming
 |  |
