@@ -52,6 +52,7 @@
 | [0739-daily-temperatures](https://github.com/apoorwagupta/Journey/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/apoorwagupta/Journey/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/apoorwagupta/Journey/tree/master/0921-spiral-matrix-iii) |
+| [0940-fruit-into-baskets](https://github.com/apoorwagupta/Journey/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/apoorwagupta/Journey/tree/master/0959-3sum-with-multiplicity) |
 | [1063-best-sightseeing-pair](https://github.com/apoorwagupta/Journey/tree/master/1063-best-sightseeing-pair) |
 | [1137-height-checker](https://github.com/apoorwagupta/Journey/tree/master/1137-height-checker) |
@@ -109,6 +110,7 @@
 | [0219-contains-duplicate-ii](https://github.com/apoorwagupta/Journey/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorwagupta/Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/apoorwagupta/Journey/tree/master/0500-keyboard-row) |
+| [0940-fruit-into-baskets](https://github.com/apoorwagupta/Journey/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/apoorwagupta/Journey/tree/master/0959-3sum-with-multiplicity) |
 | [1319-unique-number-of-occurrences](https://github.com/apoorwagupta/Journey/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/apoorwagupta/Journey/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -224,6 +226,7 @@
 | [0219-contains-duplicate-ii](https://github.com/apoorwagupta/Journey/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/apoorwagupta/Journey/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/apoorwagupta/Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/apoorwagupta/Journey/tree/master/0940-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/apoorwagupta/Journey/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/apoorwagupta/Journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/apoorwagupta/Journey/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
