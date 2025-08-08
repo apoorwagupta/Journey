@@ -93,6 +93,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/apoorwagupta/Journey/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/apoorwagupta/Journey/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/apoorwagupta/Journey/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/apoorwagupta/Journey/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/apoorwagupta/Journey/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apoorwagupta/Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -228,6 +229,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/apoorwagupta/Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/apoorwagupta/Journey/tree/master/0940-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/apoorwagupta/Journey/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/apoorwagupta/Journey/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/apoorwagupta/Journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/apoorwagupta/Journey/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Dynamic Programming
