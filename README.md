@@ -100,6 +100,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/apoorwagupta/Journey/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/apoorwagupta/Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/apoorwagupta/Journey/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/apoorwagupta/Journey/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/apoorwagupta/Journey/tree/master/3194-find-words-containing-character) |
@@ -235,6 +236,7 @@
 | [0940-fruit-into-baskets](https://github.com/apoorwagupta/Journey/tree/master/0940-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/apoorwagupta/Journey/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/apoorwagupta/Journey/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/apoorwagupta/Journey/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/apoorwagupta/Journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/apoorwagupta/Journey/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Dynamic Programming
