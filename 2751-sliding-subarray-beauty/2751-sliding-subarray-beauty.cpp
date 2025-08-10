@@ -15,7 +15,7 @@ public:
                     }
                 }
                 ans.push_back(beauty); //store
-                mp[nums[l]]--; //shrink
+                mp[nums[l]]--;
                 l++;
             }
             r++;
