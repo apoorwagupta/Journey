@@ -78,6 +78,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/apoorwagupta/Journey/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/apoorwagupta/Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/apoorwagupta/Journey/tree/master/2727-number-of-senior-citizens) |
+| [2751-sliding-subarray-beauty](https://github.com/apoorwagupta/Journey/tree/master/2751-sliding-subarray-beauty) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/apoorwagupta/Journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
 | [3194-find-words-containing-character](https://github.com/apoorwagupta/Journey/tree/master/3194-find-words-containing-character) |
@@ -124,6 +125,7 @@
 | [1830-count-good-meals](https://github.com/apoorwagupta/Journey/tree/master/1830-count-good-meals) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/apoorwagupta/Journey/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2751-sliding-subarray-beauty](https://github.com/apoorwagupta/Journey/tree/master/2751-sliding-subarray-beauty) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/apoorwagupta/Journey/tree/master/3308-apply-operations-to-make-string-empty) |
 ## Sorting
@@ -237,6 +239,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/apoorwagupta/Journey/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/apoorwagupta/Journey/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/apoorwagupta/Journey/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2751-sliding-subarray-beauty](https://github.com/apoorwagupta/Journey/tree/master/2751-sliding-subarray-beauty) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/apoorwagupta/Journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/apoorwagupta/Journey/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Dynamic Programming
