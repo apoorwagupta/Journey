@@ -84,6 +84,7 @@
 | [3194-find-words-containing-character](https://github.com/apoorwagupta/Journey/tree/master/3194-find-words-containing-character) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/apoorwagupta/Journey/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/apoorwagupta/Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3934-coupon-code-validator](https://github.com/apoorwagupta/Journey/tree/master/3934-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [3194-find-words-containing-character](https://github.com/apoorwagupta/Journey/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/apoorwagupta/Journey/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3934-coupon-code-validator](https://github.com/apoorwagupta/Journey/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [2751-sliding-subarray-beauty](https://github.com/apoorwagupta/Journey/tree/master/2751-sliding-subarray-beauty) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/apoorwagupta/Journey/tree/master/3308-apply-operations-to-make-string-empty) |
+| [3934-coupon-code-validator](https://github.com/apoorwagupta/Journey/tree/master/3934-coupon-code-validator) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/apoorwagupta/Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorwagupta/Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/apoorwagupta/Journey/tree/master/3308-apply-operations-to-make-string-empty) |
+| [3934-coupon-code-validator](https://github.com/apoorwagupta/Journey/tree/master/3934-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
