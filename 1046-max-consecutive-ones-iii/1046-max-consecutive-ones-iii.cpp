@@ -6,11 +6,11 @@ public:
     
         while(r<n){
             if(nums[r]==0) cnt++;
-            while(cnt>k){
-                if(nums[l]==0) cnt--;
+            if(cnt>k){
+                if(nums[l]==0) cnt--; // move l but maintain the prev window contant, although update it only whn we have k 0s
                 l++;
             }
-            ans=max(r-l+1,ans);
+            if(cnt<=k)ans=max(r-l+1,ans);
             r++;
         }
         return ans;
