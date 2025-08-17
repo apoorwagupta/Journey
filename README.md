@@ -94,6 +94,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/apoorwagupta/Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/apoorwagupta/Journey/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/apoorwagupta/Journey/tree/master/0680-valid-palindrome-ii) |
+| [1078-remove-outermost-parentheses](https://github.com/apoorwagupta/Journey/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/apoorwagupta/Journey/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/apoorwagupta/Journey/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/apoorwagupta/Journey/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -270,6 +271,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/apoorwagupta/Journey/tree/master/0739-daily-temperatures) |
+| [1078-remove-outermost-parentheses](https://github.com/apoorwagupta/Journey/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/apoorwagupta/Journey/tree/master/2470-removing-stars-from-a-string) |
 | [3114-beautiful-towers-i](https://github.com/apoorwagupta/Journey/tree/master/3114-beautiful-towers-i) |
 ## Monotonic Stack
