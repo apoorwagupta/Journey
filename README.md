@@ -40,6 +40,7 @@
 | [0073-set-matrix-zeroes](https://github.com/apoorwagupta/Journey/tree/master/0073-set-matrix-zeroes) |
 | [0119-pascals-triangle-ii](https://github.com/apoorwagupta/Journey/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/apoorwagupta/Journey/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/apoorwagupta/Journey/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/apoorwagupta/Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/apoorwagupta/Journey/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorwagupta/Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/apoorwagupta/Journey/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/apoorwagupta/Journey/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/apoorwagupta/Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorwagupta/Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/apoorwagupta/Journey/tree/master/0633-sum-of-square-numbers) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/apoorwagupta/Journey/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/apoorwagupta/Journey/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/apoorwagupta/Journey/tree/master/0273-integer-to-english-words) |
 | [0633-sum-of-square-numbers](https://github.com/apoorwagupta/Journey/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/apoorwagupta/Journey/tree/master/1146-greatest-common-divisor-of-strings) |
